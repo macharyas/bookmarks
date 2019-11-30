@@ -20,9 +20,9 @@ I simply created an HTML document using WordPad (PC).
 6. Upload them all to an accessible place online. I placed my in Google Photos.
 7. Open the photo in Google Photos and right-click on the image. Select “Copy Image Address.” This will copy a very long URL.
 Or: Keep all the images, design files and HTML on your local drive, such as a folder on your Desktop.
-8. Paste that entire block of text in the IMG SRC part of the HTML. Be careful to get the whole text and place it between <img src="….."></a>.
+8. Paste that entire block of text in the IMG SRC part of the HTML. Be careful to get the whole text and place it between <img src = "….."></a>.
 9. Go to the candidates’ campaign site and copy that URL from the address bar.
-10. Paste the campaign URL between <a href="...">
+10. Paste the campaign URL between <a href = "...">
 11. Copy that entire block and paste it below and repeat these steps until all selected sites are complete.
 12. Save the HTML document.
 13. From your browser, select File>>Open and select the HTML file you created (or double click to open in your default browser). This will open a “web page.” Add it to your bookmark bar or folder.
